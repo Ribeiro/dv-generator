@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: gribeiro
+Build-Jdk: 1.6.0_39
+Main-Class: br.com.curso.dvgenerator.view.DVGeneratorApplication
+Created-By: Maven Integration for Eclipse
+
